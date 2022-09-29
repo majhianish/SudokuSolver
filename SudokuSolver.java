@@ -1,5 +1,3 @@
-package com.anish;
-
 import java.util.Arrays;
 import java.util.HashSet;
 
